@@ -27,4 +27,4 @@ The data used in this study can be found in the following [Kaggle link]( https:/
 
 # Analysis
 
-Find attached a Jupyter Notebook with the script and the analysis performed.
+Find attached a Jupyter Notebook (PySpark) with the script and the analysis performed.
